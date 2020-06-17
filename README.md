@@ -1,0 +1,3 @@
+# Szachy
+
+### Projekt C++
